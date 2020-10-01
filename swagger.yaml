@@ -4,6 +4,8 @@ info:
   title: "Sample IoT APIs"
   description: "These are public domain APIs, currently used for demo purpose."
   version: "1.0.0"
+  name: Thirumala Venkatesh C
+  email: thirumalavenkatesh@gmail.com
 servers:
 - url: "https://virtserver.swaggerhub.com/thirumalavenkateshc/IOTAPI/1.0.0"
   description: "SwaggerHub API Auto Mocking"
